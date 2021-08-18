@@ -1,0 +1,61 @@
+Keywords-Quiz
+
+1. L
+2. B,D,G,H
+3. B,E,G,H,K
+4. C,E,G,I
+5. B,D,F,I,J,K
+6. A,B,C,D,G,I,K
+7. J
+8. A,E
+9. B,G,I
+10. D
+11. E
+
+
+Interface answers
+
+Q1 : c,d
+Q2 : c
+Q3 : a,c,e
+Q4 : a,f
+Q5 : a,d,e,f
+Q6 : a
+Q7 : a,e
+Q8 : a,b
+Q9 : c,f
+Q10 : a
+Q11 : a,d,e,f
+Q12 : e
+Q13 : e
+Q14 : a,c,e
+Q15 : f
+Q16 : c,d,e
+Q17 : c,d
+Q18 : a,b,c
+Q19 : c,d,e
+Q20 : a
+Q21 : c
+Q22 : c
+Q23 : b
+Q24 : e
+Q25 : h
+Q26 : b
+
+
+OverLoading Answers
+
+Q1 : b
+Q2 : b
+Q3 : b
+Q4 : d
+Q5 : a
+Q6 : a
+Q7 : d
+Q8 : d
+
+Packages Answers
+
+Q1 : d
+Q2 : c,d,e
+Q3 : d,e
